@@ -1,4 +1,4 @@
-/// Cool guy Bob helps us extend any lifetime to static
+/// Cool guy Bob helps us extend any lifetime
 pub fn weird_fn<'a, 'b, T>(_bob: &'b &'a (), borrow: &'a mut T) -> &'b mut T {
     borrow
 }
