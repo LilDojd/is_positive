@@ -1,8 +1,10 @@
 # Unsafe Rust Transmute and Undefined Behavior Example
 
-This project demonstrates advanced (and highly unsafe) Rust programming techniques, including custom transmute implementation and deliberate undefined behavior (UB).
+This project demonstrates advanced (and highly unsafe) Rust programming techniques, including custom transmute implementation and deliberate undefined behavior (UB). This is just a small subset of what is possible with this trick. Checkout the original repo for more ~~ab~~use-cases:
 
-**WARNING**: This code is for educational purposes only and should not be used in production. It intentionally invokes undefined behavior and can lead to unpredictable results.
+https://github.com/Speykious/cve-rs
+
+**WARNING**: This code is for educational purposes only and should not be used in production. It intentionally invokes undefined behavior and :rotating_light:**WILL**:rotating_light: lead to unpredictable results.
 
 ## Contents
 
