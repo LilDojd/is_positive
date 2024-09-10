@@ -1,4 +1,4 @@
-# 🦀 The Most Definitely Safe Rust Library™ 🦀
+# 🦀 Safe Is Positive™ 🦀
 
 Welcome to the cutting-edge, totally-not-cursed Rust library that pushes the boundaries of what's possible (and probably what's sensible) in Rust programming!
 Works only in nightly Rust due to use of `generic_const_exprs`.
