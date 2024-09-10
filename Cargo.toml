@@ -1,11 +1,4 @@
 [package]
-name = "transmute_cve"
-version = "0.1.0"
+name = "is_positive"
+version = "0.1.337"
 edition = "2021"
-
-[dev-dependencies]
-criterion = { version = "0.5", features = ["html_reports"] }
-
-[[bench]]
-name = "totallysafe"
-harness = false
