@@ -4,4 +4,4 @@ version = 3
 
 [[package]]
 name = "is_positive"
-version = "0.1.337"
+version = "0.1.338"
