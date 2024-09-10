@@ -40,10 +40,6 @@ fn main() {
 
 Contributions are welcome! Please note that all pull requests must be accompanied by a notarized statement declaring that you understand the cosmic consequences of your actions.
 
-## License
-
-This project is licensed under the "Please Don't Actually Use This" License.
-
 ## Acknowledgements
 
 The Rust compiler for not completely giving up on us.
