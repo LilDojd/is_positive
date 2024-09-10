@@ -29,7 +29,7 @@ fn main() {
 
 ## Warning
 
-:rotating_light:NEVER, and I mean NEVER use this in your code. The `transmute` relies on compiler bug and WILL produce UB:rotating_light:
+:rotating_light: NEVER, and I mean NEVER use this in your code. The `transmute` relies on compiler bug and WILL produce UB :rotating_light:
 
 ## Features
 
